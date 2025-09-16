@@ -5,16 +5,16 @@
 ## Genres & Mechanics:
 
 Genre:  
-Action | Adventure | Platformer | Shooter | Puzzle | Arcade
+Action | **Adventure** | Platformer | Shooter | **Puzzle** | Arcade
 
 📜 Scrolling / Perspective:  
-Vertical scrolling | Horizontal scrolling | Fixed screen | Endless scrolling | Single-screen | Multi-directional
+Vertical scrolling | Horizontal scrolling | **Fixed screen** | Endless scrolling | Single-screen | Multi-directional
 
 🧗 Movement & Abilities:  
 Jumping | Double-jumping | Wall-jumping | Climbing | Falling/descending | Dashing | Grappling | Flying/gliding
 
 ⚔️ Action / Conflict:  
-Combat | Avoidance | Survival | Shooting | Melee attacks | Boss fights | Hazards
+==Combat== | Avoidance | Survival | Shooting | Melee attacks | Boss fights | Hazards
 
 🏗 Structure / Progression:  
 Level-based | Endless | Procedural / random | Linear | Branching paths | Boss towers | Chase sequences
