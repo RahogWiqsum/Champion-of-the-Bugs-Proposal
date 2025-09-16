@@ -55,7 +55,7 @@ Teenagers to adults that like brutally difficult turn-based RPGs. There’s a lo
 Collecting trophies from each city and tournament win, as well as getting more bugs to fight with, and upgrades for those bugs.  
 The game has about 100 hours of gameplay, and one mistake can send you back to the very beginning of the game. It’s designed to test a player’s patience and planning skills, as well as on-your-feet decision making.
 
-Pokemon Run and Bun, Pokemon Renegade Platinum, and Skyrim
+Inspiration comes from Pokemon Run and Bun, Pokemon Renegade Platinum, and Skyrim, and they would also be my competitors.
 
 The turn-based combat and bug-catching aspects come from the Pokemon games, and the aspect of travelling all over the country is inspired by the exploration parts of Skyrim (the long journeys between objectives, and the things to do along the way).  
 Any Pokemon game; Any (official) Pokemon game wouldn’t be nearly as difficult, and it wouldn’t send you back to the start if you lose a battle.
