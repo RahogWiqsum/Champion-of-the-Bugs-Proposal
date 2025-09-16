@@ -14,16 +14,16 @@ Vertical scrolling | Horizontal scrolling | **Fixed screen** | Endless scrolling
 Jumping | Double-jumping | Wall-jumping | Climbing | Falling/descending | Dashing | Grappling | Flying/gliding
 
 ⚔️ Action / Conflict:  
-==Combat== | Avoidance | Survival | Shooting | Melee attacks | Boss fights | Hazards
+**Combat** | Avoidance | **Survival** | Shooting | Melee attacks | **Boss fights** | Hazards
 
 🏗 Structure / Progression:  
-Level-based | Endless | Procedural / random | Linear | Branching paths | Boss towers | Chase sequences
+Level-based | Endless | Procedural / random | **Linear** | Branching paths | **Boss towers** | Chase sequences
 
 🎨 Aesthetic / Tone:  
-Retro / Pixel art | Cartoonish | Serious / atmospheric | Sci-fi | Fantasy | Comedy / silly | Dark / horror
+**Retro / Pixel art** | Cartoonish | Serious / atmospheric | Sci-fi | Fantasy | Comedy / silly | Dark / horror
 
 🧩 Challenge Style:  
-Precision platforming | Speed / reflexes | Strategy | Exploration | Puzzle-solving | Resource management
+Precision platforming | Speed / reflexes | **Strategy** | Exploration | **Puzzle-solving** | **Resource management**
 
 ## ---
 
